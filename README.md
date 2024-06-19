@@ -1,6 +1,6 @@
 ## Sup? 👋 My name is Vitor
 
-#### Backend Software Developer
+#### Observability Consultant
 
 I'm a 32 years old developer and hacking since I was 28. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end development, making applications that impact the life of thousands of users.
 
