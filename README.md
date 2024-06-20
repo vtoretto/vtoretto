@@ -4,7 +4,7 @@
 
 I'm a 32 years old developer and hacking since I was 28. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end development, making applications that impact the life of thousands of users.
 
-* 🌍  I'm based in Rio de Carapicuíba, Brazil
+* 🌍  I'm based in Carapicuíba, Brazil
 * ✉️  You can contact me at [duartevoliveira@gmail.com](mailto:duartevoliveira@gmail.com)
 * 🚀  I'm currently freelancing for companies as a Observability Consultant
 * 🧠  I'm learning Advanced Shell Script and Python programming languages
