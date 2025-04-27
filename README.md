@@ -22,6 +22,7 @@ I am also a proud dad of a pretty little girl.
   <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" height="32" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/elasticsearch/elasticsearch-original.svg" height="32" alt="elasticsearch logo"  />
 </div>
 
 #### Socials
