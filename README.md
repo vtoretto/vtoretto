@@ -18,7 +18,7 @@ I am also a proud dad of a pretty little girl.
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg" height="32" alt="go logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="32" alt="amazonwebservices logo"  />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kubernetes/kubernetes-original.svg" height="32" alt="kubernetes logo"  />
   <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" height="32" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
