@@ -9,7 +9,7 @@ I am also a proud dad of a pretty little girl.
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [duartevoliveira@gmail.com](mailto:duartevoliveira@gmail.com)
 * 🚀  I'm currently freelancing for companies as a Observability Consultant
-* 🧠  I'm learning OpenTelemetry framework, ELK and Python
+* 🧠  I'm learning OpenTelemetry framework, ELK and Go
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Skate
 
